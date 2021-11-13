@@ -34,17 +34,20 @@ Major?
 Height?
 
 * [5 ft. 2 in.]
-
     ~ Height = short
+    
+    -> WakeUp
 * [5 ft. 5 in.]
     ~ Height = short
+    
+    -> WakeUp
 * [5 ft. 8 in.]
     ~ Height = tall
+    
+    -> WakeUp
 * [6 ft. 1 in.]
     ~ Height = tall
     
-- You are {Height}.
-
 
 -> WakeUp
 
