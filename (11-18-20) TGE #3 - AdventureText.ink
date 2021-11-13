@@ -1,3 +1,5 @@
+// WORK IN PROGRESS
+
 LIST PlayerStatus = tired, hungry, stinky, grumpy
 
 VAR Lies = 0
