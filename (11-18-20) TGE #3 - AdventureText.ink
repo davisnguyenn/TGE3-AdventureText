@@ -1,4 +1,4 @@
-LIST PlayerStatus = tired, hungry, stinky, grump
+LIST PlayerStatus = tired, hungry, stinky, grumpy
 
 VAR Lies = 0
 VAR Hour = 9
